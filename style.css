@@ -1,6 +1,7 @@
 .title {
     text-align: center;
-    color: white;
+    color: azure;
     background-color: rgb(13, 54, 34);
-    margin: 0 190px;
+    width: 50%;
+    margin: 0 auto;
 }
