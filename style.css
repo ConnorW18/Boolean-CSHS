@@ -2,21 +2,23 @@
     text-align: center;
     color: white;
     background-color: rgb(13, 54, 34);
-    padding: 50px 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40px;
+    margin: 0;
 }
 
-.text1{
+.img img{
     width: 200px;
 }
 
-.img1{
-    width: 200px;
+.text{
+    width: auto;
+    font-size: 25px;
+    
 }
 
 .container{
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
 }
-
