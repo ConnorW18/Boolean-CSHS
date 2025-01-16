@@ -1,6 +1,22 @@
-.title {
+.title{
     text-align: center;
     color: white;
     background-color: rgb(13, 54, 34);
-    margin: 0 450px;
+    padding: 50px 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
 }
+
+.text1{
+    width: 200px;
+}
+
+.img1{
+    width: 200px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
